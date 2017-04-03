@@ -1,16 +1,16 @@
-# [sinchi](https://t.me/tgMember)
+# [sinchi](https://t.me/MrAntiFuckerchannel)
 
 
 the best bot in telegram for broadcasting and add seen. The New version and professional of tabchi bot. base in new telegram-cli.
 
 ***
 
-[![https://github.com/tgMember/sinchi](https://img.shields.io/badge/license-MiT-blue.svg)](https://github.com/tgMember/sinchi)
-[![http://t.me/sajjad_021](https://img.shields.io/badge/Telegram-sajjad__021-blue.svg)](http://t.me/sajjad_021)
-[![https://github.com/tgMember/sinchi](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-sinchi-green.svg)](https://github.com/tgMember/sinchi)
+[![https://github.com/kianoshboy/sinchi](https://img.shields.io/badge/license-MiT-blue.svg)](https://github.com/kianoshboy/sinchi)
+[![http://t.me/MrAntiFuckersupport](https://img.shields.io/badge/Telegram-sajjad__021-blue.svg)](http://t.me/MrAntiFuckersupport)
+[![https://github.com/kianoshboy/sinchi](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-sinchi-green.svg)](https://github.com/tgMember/sinchi)
 [![http://tgmember.cf](https://img.shields.io/badge/webpage-tgMember-ff69b4.svg)](http://tgmember.cf)
 
-[![https://t.me/tgMember](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/tgMember)
+[![https://t.me/MrAntiFuckerchannel](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/MrAntiFuckerchannel)
 
 <p align="center"> <img class="td" style="vertical-align: middle;" src="https://memberplus.gq/tg2.png" alt="" width="500" height="260" /></p>
 
@@ -21,7 +21,7 @@ TeleGram-CLI based broadcasting bot!
 ## Install
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
-cd $home && git clone https://github.com/tgMember/sinchi.git && cd sinchi 
+cd $home && git clone https://github.com/kianoshboy/sinchi.git && cd sinchi 
 ```
 
 Enter your telegram Id in "sudo.lua" file
@@ -78,8 +78,8 @@ for see instruction and command, send help method in your bot whit out '!' , '#'
 
 ## Developers
 
-## [open and edit by (sajjad_021)](https://t.me/sajjad_021)
-## [channel (tgMember)](https://t.me/tgMember)
+## [open and edit by (MrAntiFuckersupport)](https://t.me/MrAntiFuckersupport)
+## [channel (MrAntiFuckerchannel)](https://t.me/MrAntiFuckerchannel)
 
 
 Enjoy Your sinchi Bot!
